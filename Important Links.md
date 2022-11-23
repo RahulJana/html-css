@@ -4,4 +4,4 @@
 3. Firefox dev tools: https://firefox-source-docs.mozilla.org/devtools-user/index.html
 4. VS code user manual: https://code.visualstudio.com/docs
 5. Markdown syntax: https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops
-6. 
+6. CSS reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
