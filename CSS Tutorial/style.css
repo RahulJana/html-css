@@ -1,0 +1,44 @@
+h1{
+    color: purple;
+}
+
+#header_1 {
+    color: green
+}
+
+#Heading_1{
+    color : darkslategray
+}
+
+#para1{
+    color: darkblue
+}
+
+#latest{
+    color: darkgreen
+}
+
+.navigation{
+    margin: 2px;
+    color: chocolate
+}
+
+p.Intro{
+    color: magenta
+}
+
+#blog h1{
+    color: darkcyan
+}
+
+#blog div h1{
+    color: blue;
+}
+
+#blog > h1{
+    color: rgb(168, 0, 0);
+}
+
+a:hover {
+    color: orange;
+  }
