@@ -1,0 +1,29 @@
+.One{
+    background-color: rgb(243, 52, 52);
+}
+
+.Two{
+    background-color: rgb(41, 41, 226);
+}
+
+.Parent{
+    border: 5px solid red;
+}
+
+.Child{
+    width: 50%;
+    padding: 20px;
+    border: 5px solid green;
+    margin: auto;
+}
+
+.image{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floating_image{
+    float: right;
+}
