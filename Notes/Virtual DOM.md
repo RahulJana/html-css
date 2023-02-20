@@ -1,4 +1,5 @@
 # The Virtual DOM
+
 React builds a representation of the browser Document Object Model or DOM in memory called the virtual DOM. As components are updated, React checks to see if the component’s HTML code in the virtual DOM matches the browser DOM. If a change is required, the browser DOM is updated. If nothing has changed, then no update is performed.
 
 As you know, this is called the reconciliation process and can be broken down into the following steps:
